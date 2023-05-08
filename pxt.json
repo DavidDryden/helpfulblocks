@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Helpful": "github:daviddryden/helpfulblocks#3fd7ae9a06b55077df8cb2b4456e2654d9dc2258"
     },
     "files": [
         "main.blocks",
